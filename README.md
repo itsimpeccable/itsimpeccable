@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @calvinmoment
+- 👋 Hi, I’m calvinmoment!
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JAVA!
 - 💞️ I’m looking to collaborate on æ.
 
 
