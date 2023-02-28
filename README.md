@@ -1,10 +1,3 @@
-- 👋 Hi, I’m ItsImpeccable!
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning JAVA!
-- 💞️ I’m looking to collaborate on æ.
+![189497810-6d9d2920-6bee-4990-9553-57699918ae9c copy 3](https://user-images.githubusercontent.com/51460403/221981877-7e772dec-4958-4b84-8cc3-052824c21b1a.j
 
-
-<!---
-calvinmoment/calvinmoment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, 🌍! My name is Doruk Sarp Aydın and I am from 🇹🇷 and 12 years old, I am an amateur Python, CSS, JS and Scratch coder, I mostly code @ Hack Club.
