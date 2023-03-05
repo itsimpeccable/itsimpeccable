@@ -1,4 +1,4 @@
-- name: generate-snake-game-from-github-contribution-grid
+- name: github-contribution-grid-snake
   # You may pin to the exact commit or the version.
   # uses: Platane/snk@3acebc09eb8ab0e86b3df011dd483a6d3724d280
   uses: Platane/snk@v2.2.1
