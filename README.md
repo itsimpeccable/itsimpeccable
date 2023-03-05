@@ -3,5 +3,5 @@
 Hello, 🌍! My name is Doruk Sarp Aydın and I am from 🇹🇷 and 12 years old, I am an amateur Python, CSS, JS and Scratch coder, I mostly code @ Hack Club.
 
 <p align="center">
-  <img src="https://github.com/itsimpeccable/itsimpeccable/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/itsimpeccable/itsimpeccable/blob/main/github-contribution-grid-snake.svg">
 </p>
