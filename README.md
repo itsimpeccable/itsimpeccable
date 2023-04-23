@@ -3,4 +3,5 @@ Hello, 🌍! My name is Doruk Sarp Aydın and I am from 🇹🇷 and 12 years ol
 ![image](https://user-images.githubusercontent.com/51460403/222978345-26728262-41f7-4322-98fb-6e1b9ce54e5f.png)
 ----------------
 Please do not theme this banner
+
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
